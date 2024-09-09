@@ -95,4 +95,5 @@ class LoggerLite {
   }
 }
 
+
 enum LogType { debug, info, warning, error }
